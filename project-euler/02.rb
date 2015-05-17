@@ -12,6 +12,3 @@ def even_fibonacci(num)
 	return sum	
 
 end
-
-puts even_fibonacci(3)
-puts even_fibonacci(4_000_000)

@@ -14,6 +14,3 @@ def largest_prime_factor(num)
 	return primes.max
 
 end
-
-puts largest_prime_factor(13195)
-puts largest_prime_factor(600851475143)

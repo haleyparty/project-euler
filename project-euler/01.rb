@@ -9,7 +9,3 @@ def mult_of_3_or_5(num)
 
 	return sum
 end
-
-
-puts mult_of_3_or_5(10)
-puts mult_of_3_or_5(1000)

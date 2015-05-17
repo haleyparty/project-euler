@@ -25,5 +25,3 @@ def palindrome(num_digits)
 	end
 	return max
 end
-
-puts palindrome(3)

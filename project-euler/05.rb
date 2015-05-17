@@ -22,7 +22,5 @@ def gcd(a, b)
 	a
 end
 
-puts smallest_multiple(20)
-
 # function body could also be one line: (1..num).inject(:lcm)
 # review me later

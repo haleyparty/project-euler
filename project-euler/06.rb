@@ -13,6 +13,3 @@ def sum_square_difference(num)
 	return square_of_sums - sum_of_squares
 
 end
-
-puts sum_square_difference(10)
-puts sum_square_difference(100)

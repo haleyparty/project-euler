@@ -14,6 +14,3 @@ def nth_prime_num(nth)
 	return Prime.take(10001).last
 
 end
-
-puts nth_prime_num(6)
-puts nth_prime_num(10001)
