@@ -1,4 +1,4 @@
-# Solution used in Coderbyte had a timeout error when running to 10,001. I found that Ruby has a mathn
+# Solution used in Coderbyte had a timeout error when running to 10,001. I found that Ruby has a math
 # library to give this an elegant solution. An alternative would be using sieve of Eratosthenes,
 # whereby you input an n > 1, create an array of boolean values indexed by integers 2 to n (for
 # 10,001, this had to be done in smaller chunks, i.e. 2 to 1,000, etc) all set to be true. Then
